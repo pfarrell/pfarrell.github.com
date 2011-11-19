@@ -61,8 +61,13 @@ p {
   margin-bottom:1em;
 }
 
+p.project {
+  margin-bottom:0px;
+}
+
 p.post {
   border-bottom: 1px solid #CAE6E8;
+  margin-bottom:0px;
 }
 
 p.section {
