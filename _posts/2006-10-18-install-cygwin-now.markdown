@@ -11,19 +11,18 @@ The disease will have you locked into thinking what is on the screen is what you
 
 If you've only worked on Windows computers then you should have yourself checked out for this disease periodically.  One vaccine is to force yourself to become acquainted with the power of the command line.  The best step I've found to accomplishing this is to install <a href="http://cygwin.com">Cygwin</a>, a <a href="http://www.gnu.org/software/bash/">bash</a> shell for the Windows operating system.  Think of this a the ability to replace cmd.exe with the more powerful tools available to our Unix counterparts.
 
-1. Searching (and replacing)
-You've got hundreds of text files that need to be searched for a specific term or worse, need to be changed.  You can try to use the broken Windows file search capabilities to locate the files then manually update them, or you can use a few quick commands in cygwin and let the computer do the work.
 >**Example 1: The rebranding scenario**
-replace the words "Cool Widgits" with "Our New Name.com" across all html files in the current directory and all subdirectories.
+You've got hundreds of text files, arranged in folders and subfolders where "Cool Widgits" needs to be replaced with "Our New Name.com". 
+
 Here's one way to build the command:
 
-Find all files in the current directory
-> find . -type f  
+1. Find all files in the current directory
+  > find . -type f  
 
-Select only the files that end in "html"
-> find . -type f | grep 'html$'
+2. Select only the files that end in "html"
+  > find . -type f | grep 'html$'
 
-Now, run those html files through an inline replacement command using perl
-> find . -type f | grep 'html$' | xargs perl -pi -e 's:Cool Widgits:Our New Name.com:g'
+3. Now, run those html files through an inline replacement command using perl
+  > find . -type f | grep 'html$' | xargs perl -pi -e 's:Cool Widgits:Our New Name.com:g'
 
 There.  You've just created a new one-off tool in a minute that would have required half a day in many other scenarios (or worse, you could have manually updated the files ;).  The best part is this.  If you've backed up the files, all your work is reproducible.  Your work is in the command, not the files themselves.  You've just taken a step into a larger world.
