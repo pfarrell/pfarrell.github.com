@@ -6,7 +6,7 @@
 body {
   margin-top: 15px;
   font-size: 1.5em;
-  line-height:1.4em;
+  line-height:1.3em;
   font-family: 'Caudex', serif;
   font-color: #2B2E2E;
   -webkit-font-smoothing: antialiased;
@@ -41,6 +41,7 @@ a:hover {
 
 h1 {
   margin-bottom:.8em;
+  line-height: 1.4em;
 }
 
 h2 {
