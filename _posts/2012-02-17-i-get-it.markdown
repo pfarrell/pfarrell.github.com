@@ -1,0 +1,53 @@
+---
+layout: post
+title: "I get it"
+---
+I love finding a new way of approaching problems.  
+The deepest way is to change your language.  
+Sticking with one language deprives you of blissful A-HA moments.
+
+I've been dating several lanaguages for a while... without commitment.  
+I get functional, but I keep hearing that Haskell's type system is the crown jewel.  
+I get this in theory, but, today, I got it all the way down to my keyboard.
+
+I'm working with a parser for TSQL, trying to see what I can do with it.  
+I'm working my way down a form of and abstract syntax tree and wanting to run
+run specific investigation based on... you guessed it... type.
+
+Here's the problem:
+
+    class A   {...}
+    class B:A {...}
+    class C:A {...}
+
+    class D:B {...}
+    class E:C {...}
+
+
+I want to segment functions like this:
+
+    void Process(D d) { do things avabilable and specific to D}
+    void Process(E e) { do things avabilable and specific to E}
+
+
+
+The API gives me things like this, though
+
+    Continer<A>[] {D, E}
+
+
+
+That is, the container is typed as A, but I want to deal with D and E as their most specific types.
+
+With C#, I can't come up with a great way to segment the types D and E, keeping them at their most specific,
+without some form of an if/else control structure.
+
+This was today's A-HA moment.  
+When I hear how a type system solves problems, I never fully _got_ it.
+
+
+Now I do.
+
+{I promise to finish this post with a counter example of how to fix this with types as soon as I figure it out.}
+
+
