@@ -6,9 +6,9 @@ I love finding a new way of approaching problems.
 The deepest way is to change your language.  
 Sticking with one language deprives you of blissful A-HA moments.
 
-I've been dating several lanaguages for a while... without commitment.  
-I get functional, but I keep hearing that Haskell's type system is the crown jewel.  
-I get this in theory, but, today, I got it all the way down to my keyboard.
+I've been dating several lanaguages for a while... nothing serious.
+I get functional, but hear Haskell's type system is the crown jewel.  
+I [glimpsed a shadow](http://en.wikipedia.org/wiki/Allegory_of_the_Cave) in C# today that made me understand the power of a type system (I think).
 
 With TSQL parser, I'm working my way down a form of an abstract syntax tree and wanting to run code based on... you guessed it... type.
 
