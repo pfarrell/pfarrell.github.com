@@ -21,6 +21,7 @@ title: "Oblique Strategems"
 * Do it without loops
 * Do it without disk IO
 * Strings, ints, binary, and associative arrays can build many things
+* Do it all in one function, no if statements
 * Explain bittorrent to a child
 * Explain quicksort to a child
 * Explain pseudorandom numbers to your partner
