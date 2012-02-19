@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oblique Strategems"
+title: "Oblique Stratagems"
 ---
 ##Get off your box
 * Black coffee or no coffee
