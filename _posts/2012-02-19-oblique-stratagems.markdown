@@ -10,12 +10,15 @@ title: "Oblique Strategems"
 * Disable your touchpad
 * Unplug your internet connection 
 * Your search engine is email, ask others to google it and reply with the results
-* Add a randomized (up to a minute) pause to the end of every server-side function.  Is your app still useful?
+* Every server-side function pauses 1 second before returning
+* Imagine your language allowed 120 characters per line, 8 lines per function
 * Do it without a data store
-* Redis is the only data store
+* Act as if Redis is the only data store in the world
+* memcached is the only data store in the world
+* Imagine hard disks are physically impossible.  What does the internet look like?
 * Do it without a middle tier
 * Do it without loops
-* Do it without IO
+* Do it without disk IO
 * Strings, ints, binary, and associative arrays can build many things
 * Explain bittorrent to a child
 * Explain quicksort to a child
