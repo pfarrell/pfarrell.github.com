@@ -4,22 +4,32 @@ title: "Oblique Stratagems"
 ---
 ##Get off your box
 * Black coffee or no coffee
-* don't leave vim (your REPL needs buffers, :!, and :vsp)
-* How old is your screen session
+* Fix it without rebooting it
+* Fix it by rebooting it
+* Leave it running
+* How old is your session?
 * Detach your mouse
 * Disable your touchpad
+* Divide and conquer
+* Delegate it
+* Write it down for later and move on
 * Unplug your internet connection 
-* Uninstall all web browsers on your machinee
+* It will happen, does it matter?
+* It will happen, you can handle it
+* How long can you go without starting a new instance?
 * Need a webpage?  Email a colleague and ask for a screenshot of the page.  Do that all week.
 * Add a random pauses to every function, is it still usable??
-* 120 characters per line, 8 lines per function
+* Ask for it and move on
+* 120 chars/line, 8 lines/function unless you can argue why not
 * Don't ask the data store
 * Ask the cache
-* Imagine the IO takes an hour to return
+* You already have it
+* What if the IO takes 15 minutes to return
 * There is only RAM
 * Make it talk
 * Make it quiet
 * Make it loud
+* Make it sing
 * It never stops
 * Don't make it stop
 * Do it in batch
@@ -36,6 +46,7 @@ title: "Oblique Stratagems"
 * Do it all in one function, no if statements
 * Code creates chaos, remove chaos.
 * Remove the chaos
+* Handle it
 * Make it recursive
 * You don't need it
 * Explain it to a child
@@ -48,16 +59,16 @@ title: "Oblique Stratagems"
 * Do the inverse
 * Measure it
 * Measure productivity
-* Who cares what it took Michelangelo to create *The David*
+* The least interesting aspect of *David* is what tools Michelangelo used
 * Does it matter?
 * The greatest thing you've experienced?  Do that.
 * You are dead.  Who cares?
-* 99.9% of everything is gone and unremembered in 100 years.  That's your advantage.
+* 99.9% of everything is gone and unremembered in 100 years.  Use that to your advantage.
 * How long till a reboot?
 * Switch the language
 * Don't switch the language
 * It's been done before
-* It's solvable
+* It's solvable, unless it's not.  Which one is it?
 * Programming is exception handling
 * Change it or return it
 
