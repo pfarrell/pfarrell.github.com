@@ -58,7 +58,10 @@ title: "Oblique Strategems"
 * Hours since your last reboot?  Square it.
 * Switch your language
 * Don't switch you langugage
-
+* It's been done before
+* It's solvable
+* Enjoy every sandwich - Warren Zevon
+* Programming is exception handling
 
 
 
