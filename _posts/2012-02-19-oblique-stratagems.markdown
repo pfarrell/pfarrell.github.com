@@ -21,10 +21,10 @@ title: "Oblique Strategems"
 * Make it talk
 * Make it quiet
 * Make it loud
-* Loud... Quiet... Loud
 * It never stops
 * Don't make it stop
-* Do it in batches
+* Do it in batch
+* It's time
 * Let them know what you're doing
 * Do it without a middle tier
 * Do it with client-side javascript and couchdb only
@@ -35,8 +35,8 @@ title: "Oblique Strategems"
 * Use only hashes and loops.
 * Everything in one unterminating loop... everything
 * Do it all in one function, no if statements
-* Code creates chaos
-* Code creates chaose, programmers are supposed to remove chaos.
+* Code creates chaos, remove chaos.
+* 5 years later, it is still being executed?
 * Do it with recursion
 * You don't need it
 * Explain bittorrent to a child
@@ -51,16 +51,16 @@ title: "Oblique Strategems"
 * How do you measure your productivity?
 * How do you demonstrate our productivity?
 * Demonstrate our productivity without words
-* Does it matter how long Michelangelo took to make *The David*?
-* You are dead.  What's the greatest thing you experienced firsthand?
+* How long Michelangelo took to make *The David*? Does it matter?
+* Does it matter?
+* What's the greatest thing you've experienced firsthand?  Do that.
 * You are dead.  Who cares?
-* 99.9% of everything is gone and unremembered in 100 years.  Use that to your advantage.
+* 99.9% of everything is gone and unremembered in 100 years.  That's your advantage.
 * Hours since your last reboot?  Square it.
-* Switch your language
-* Don't switch you langugage
+* Switch the language
+* Don't switch the language
 * It's been done before
 * It's solvable
-* Enjoy every sandwich - Warren Zevon
 * Programming is exception handling
 
 
