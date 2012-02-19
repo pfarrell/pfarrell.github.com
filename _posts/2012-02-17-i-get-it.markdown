@@ -6,7 +6,7 @@ I love finding a new way of approaching problems.
 The deepest way is to change your language.  
 Sticking with one language deprives you of blissful A-HA moments.
 
-I've been dating several lanaguages for a while... nothing serious.
+I've been dating several lanaguages for a while... nothing serious.  
 I get functional, but hear Haskell's type system is the crown jewel.  
 I [glimpsed a shadow](http://en.wikipedia.org/wiki/Allegory_of_the_Cave) in C# today that made me understand the power of a type system (I think).
 
