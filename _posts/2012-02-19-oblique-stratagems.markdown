@@ -13,10 +13,11 @@ title: "Oblique Strategems"
 * Every server-side function pauses 1 second before returning
 * Imagine your language allowed 120 characters per line, 8 lines per function
 * Do it without a data store
-* Act as if Redis is the only data store in the world
-* memcached is the only data store in the world
+* Imagine Redis is the only data store in the world
+* Imagine memcached is the only data store in the world
 * Imagine hard disks are physically impossible.  What does the internet look like?
 * Do it without a middle tier
+* Do it with client-side javascript and couchdb only
 * Do it without loops
 * Do it without disk IO
 * Strings, ints, binary, and associative arrays can build many things
