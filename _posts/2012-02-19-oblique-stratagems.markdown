@@ -8,17 +8,17 @@ title: "Oblique Stratagems"
 * Fix it by rebooting it
 * Leave it running
 * How old is your session?
-* Detach your mouse
-* Disable your touchpad
+* Detach the mouse
+* Disable the touchpad
 * Divide and conquer
 * Delegate it
-* Write it down for later and move on
+* Write it down and move on
 * Unplug your internet connection 
-* It will happen, does it matter?
-* It will happen, you can handle it
+* Does it matter?
+* Handle it
 * How long can you go without starting a new instance?
-* Need a webpage?  Email a colleague and ask for a screenshot of the page.  Do that all week.
-* Add a random pauses to every function, is it still usable??
+* Need a webpage?  Email a colleague and ask for a screenshot of website.
+* A new developer adds a random pauses to every one of your functions
 * Ask for it and move on
 * 120 chars/line, 8 lines/function unless you can argue why not
 * Don't ask the data store
@@ -50,25 +50,27 @@ title: "Oblique Stratagems"
 * Make it recursive
 * You don't need it
 * Explain it to a child
-* Say it in half the words
+* Halve the words
 * Do it without any form of login
 * Links/Lynx is your browser for the next day
-* The time it takes to switch from not programming to programming... cut it in half
+* Cut your bootup in half
 * How do you measure it?
+* What can't you measure?
 * What are you selling?
 * Do the inverse
+* Do the obvious
 * Measure it
 * Measure productivity
 * The least interesting aspect of *David* is what tools Michelangelo used
 * Does it matter?
 * The greatest thing you've experienced?  Do that.
 * You are dead.  Who cares?
-* 99.9% of everything is gone and unremembered in 100 years.  Use that to your advantage.
+* 99.9% of everything is gone and forgotten in 100 years.  Use that to your advantage.
 * How long till a reboot?
 * Switch the language
 * Don't switch the language
 * It's been done before
-* It's solvable, unless it's not.  Which one is it?
+* Is it solvable or not solvable?
 * Programming is exception handling
 * Change it or return it
 
