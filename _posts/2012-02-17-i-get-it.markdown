@@ -26,7 +26,6 @@ I want to segment functions like this:
     void Process(E e) { do things avabilable and specific to E}
 
 
-
 The API gives me things like this, though
 
     Continer<A>[] {D, E}
@@ -35,15 +34,16 @@ The API gives me things like this, though
 
 That is, the container is typed as A, but I want to deal with D and E as their most specific types.
 
-With C#, I can't come up with a great way to segment the types D and E, keeping them at their most specific,
-without some form of an if/else control structure.
+I need to execute functions at arbitrary levels in the hierarchy, different object types expose their children and parents in unique patterns, and the class is sealed.
+
+What I need is a way to apply functions to type via some sort of regular expression (I got exposed to aspect-oriented programming early in my career so it may be sullying my mind).
+
+With C#, I can't come up with a great way to do this without some form of an if/else control structure.
 
 This was today's A-HA moment.  
-When I hear how a type system (or duck typing) solves problems, I never fully _got_ it.
 
+I need control over the way my language is handling the types themselves.  I need access to manipulating my langugage (or extending it) so I can interact with Type in a way they were not originally designed.
 
-Now I do.
+When I hear how a type system (or duck typing) solves problems, I never fully _got_ it.  When I have needs that my language almost covers, I need to be able to influence the language.  
 
-{I promise to finish this post with a counter example of how to fix this with types as soon as I figure it out.}
-
-
+Lisp... here I come ;)
