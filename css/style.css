@@ -5,7 +5,7 @@
 
 body {
   margin-top: 15px;
-  font-size: 1.5em;
+  font-size: 1.1em;
   line-height:1.3em;
   font-family: 'Cabin', serif;
   font-color: #2B2E2E;
@@ -13,7 +13,7 @@ body {
 }
 
 a {
-  font-color:#2B2E2E;
+  font-color:blue;
   text-decoration:none;
 }
 
@@ -49,7 +49,7 @@ h2 {
 }
 
 img {
-  border-radius: 1em;
+  border-radius: .5em;
   border: 4px solid #2B2E2E;
 }
 
@@ -60,6 +60,8 @@ ul {
 
 p {
   margin-bottom:1em;
+  width: 65%;
+  max-width: 650px;
 }
 
 p.project {
@@ -69,6 +71,7 @@ p.project {
 p.post {
   border-bottom: 1px solid #CAE6E8;
   margin-bottom:0px;
+  border: 1px solid black;
 }
 
 p.section {
@@ -87,7 +90,7 @@ p.section {
 }
 
 .content {
-  margin-left:180px;
+  margin-left:200px;
 }
 
 .project {
@@ -96,5 +99,13 @@ p.section {
 
 .src {
   display:inline;
-  font-size:.8em;
+  font-size:.6em;
+}
+
+.tldr {
+  width: 65%;
+  max-width:600px;
+  border: 1px solid black;
+  padding: .5em;
+  border-radius: .5em;
 }
