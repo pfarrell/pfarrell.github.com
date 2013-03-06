@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I get it"
+tldr: Microsoft APIs can suck
 ---
 Sticking with one language deprives you of blissful A-HA moments.
 

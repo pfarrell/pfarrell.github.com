@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Oblique Stratagems"
+tldr: I <3 terse
 ---
 ##Get off your box
 * Black coffee or no coffee

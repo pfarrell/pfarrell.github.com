@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Worst Thing About Time Travel
+tldr: Grammar is funny
 ---
 The worst thing about Time Travel isn't the possibility of interrupting your parent's courtship. It isn't the danger of creating a paradox that rushes backwards through time, eradicating the universe. It isn't forgetting the keys to your time machine in the Morlock tunnels.
 

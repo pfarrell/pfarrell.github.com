@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "Framework Creep"
+tldr: [YAGNI](http://en.wikipedia.org/wiki/You_aren't_gonna_need_it).
 ---
-### _tldr;_
-This is probably just a restatement of [YAGNI](http://en.wikipedia.org/wiki/You_aren't_gonna_need_it).
-
 There are ways to plan for the future without trying to solve non-existant problems.
 
 | Bad | Good |

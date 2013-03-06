@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bad Dog! Use Cygwin!
+tldr: Use Windows?  Use Cygwin.
 ---
 you hear, "There's something wrong with my computer..." as the user points to the monitor.  
 
