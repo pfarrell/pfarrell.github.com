@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DRAFT: the abcs of google"
+title: "The ABCs of Google"
 tldr: "Google is _serious_ business"
 ---
 > George: What is a barometer, exactly?
