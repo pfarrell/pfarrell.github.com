@@ -3,9 +3,11 @@ layout: post
 title: "The ABCs of Google"
 tldr: "Google is _serious_ business"
 ---
-> George: What is a barometer, exactly?
-> Kramer: It's pronounced _thermometer_
->  - Seinfeld (from _The Millenium_)
+
+>  George: What is a barometer, exactly?
+>  Kramer: It's pronounced _thermometer_
+>   - Seinfeld (from _The Millenium_)
+
 Not sure what this means, but I catalogued the top entry for each single letter when doing a google search from my phone.
 
 |Letter|Top Recommend word|Business|Year of Founding/Launch
@@ -16,7 +18,7 @@ Not sure what this means, but I catalogued the top entry for each single letter 
 |D|dictionary|![Merriam-Webster Online](http://upload.wikimedia.org/wikipedia/en/thumb/3/32/Merriam-Webster_logo.svg/75px-Merriam-Webster_logo.svg.png)|1840
 |E|ebay|![EBay](http://upload.wikimedia.org/wikipedia/commons/thumb/1/11/EBay_former_logo.svg/100px-EBay_former_logo.svg.png)|1995
 |F|facebook|![Facebook.com](http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Facebook.svg/100px-Facebook.svg.png)|2004
-|G|gmail|Google|2004
+|G|gmail|<img alt="Gmail" src="http://upload.wikimedia.org/wikipedia/en/0/0a/Gmail_logo.png" height="50px" />|2004
 |H|hotmail|![Microsoft](http://upload.wikimedia.org/wikipedia/en/7/70/Hotmail_logo.png)|1996
 |I|instagram|<img alt="Instagram" src="http://upload.wikimedia.org/wikipedia/en/2/28/Instagram_logo.png" height="50px"/>|2010
 |J|jcpenney|<img src="http://upload.wikimedia.org/wikipedia/en/8/80/JCPenney2009ffghfsgf.png" height="50px"/>|1902
