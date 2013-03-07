@@ -73,6 +73,11 @@ p.post {
   margin-bottom:0px;
 }
 
+td img{
+  border:0px;
+  border-radius:0em;
+}
+
 p.section {
   margin-left:15px;
   margin-bottom:.4em;

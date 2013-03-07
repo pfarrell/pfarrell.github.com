@@ -1,4 +1,3 @@
-require 'rubygems'
 require 'rake'
 require 'fileutils'
 
@@ -18,7 +17,7 @@ end
 
 desc "Startup Jekyll"
 task :start do
-  sh "jekyll --server"
+  sh "bundle exec jekyll --server"
 end
 
 task :default => :start

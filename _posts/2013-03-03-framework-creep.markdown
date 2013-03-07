@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Framework Creep"
-tldr: [YAGNI](http://en.wikipedia.org/wiki/You_aren't_gonna_need_it).
+tldr: "[YAGNI](http://en.wikipedia.org/wiki/You_aren't_gonna_need_it)."
 ---
 There are ways to plan for the future without trying to solve non-existant problems.
 
