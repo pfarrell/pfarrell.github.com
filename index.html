@@ -2,45 +2,46 @@
 layout: layout
 title: pfarrell
 ---
-<div class='content'>
-  <p class='section'>
-    <h2>Code</h2>
-    <p class='project'>
-      <a href='https://gist.github.com/pfarrell'>Gists</a>
-    </p>
-    <p class='project'>
-      <a href='http://patf.net/pigeon'>Pigeon</a>
-      <a href='http://github.com/pfarrell/pigeon' class='src'>{src}</a>
-    </p>
-    <p class='project'>
-      <s><a href='http://wgetme.com'>wgetme</a></s> not live yet
-      <a href='http://github.com/pfarrell/wgetme' class='src'>{src}</a>
-    </p>
-    <p class='project'>
+<div class='content row'>
+  <div class='col-md-1'></div>
+  <div class='col-md-8'>
+    <h3>Code</h3>
+    <div class='project'>
+      <a class='' href='https://gist.github.com/pfarrell'>Gists</a>
+    </div>
+    <div class='project'>
+        <a href='http://patf.net/pigeon'>Pigeon</a>
+        <a class='src' href='http://github.com/pfarrell/pigeon'>{src}</a>
+    </div>
+    <div class='project'>
+        <s><a href='http://wgetme.com'>wgetme</a></s> not live yet
+        <a class='src' href='http://github.com/pfarrell/wgetme'>{src}</a>
+    </div>
+    <div class='project'>
       <a href='http://patf.net/ldd'>Long Distance Dedication</a>
-      <a href='http://github.com/pfarrell/Song-A-Day' class='src'>{src}</a>
-    </p>
-    <p class='project'>
-      <a href='http://github.com/pfarrell/pshare3'>Pshare3</a>
-    </p>
-    <p class='project'>
-      <a href='http://github.com/pfarrell/storyfork'>Storyfork</a>
-    </p>
-    <p class='project'>
-      <a href='http://patf.com'>Oblique Stratagems</a>
-    </p>
-    <p class='project'>
-      <a href='https://rawgithub.com/pfarrell/canvas/master/gol.html'>Game of Life</a>
-    </p>
-  </p>
+      <a class='src' href='http://github.com/pfarrell/Song-A-Day'>{src}</a>
+    </div>
+    <div class='project'>
+      <a class='' href='http://github.com/pfarrell/pshare3'>Pshare3</a>
+    </div>
+    <div class='project'>
+      <a class='' href='http://github.com/pfarrell/storyfork'>Storyfork</a>
+    </div>
+    <div class='project'>
+      <a class='' href='http://patf.com'>Oblique Stratagems</a>
+    </div>
+    <div class='project'>
+      <a class='' href='https://rawgithub.com/pfarrell/canvas/master/gol.html'>Game of Life</a>
+      <a class='src' href='http://github.com/pfarrell/canvas'>{src}</a>
+    </div>
 
-  <p class='section'>
-    <h2>Essays</h2>
+    <h3>Essays</h3>
     {% for post in site.posts %} 
-    <p class='post'>
+    <div class='post'>
       <a href='{{ post.url }}'>{{ post.title }}</a>
-    </p>
+    </div>
     {% endfor %}
-  </p>
+  </div>
 </div>
+
 
