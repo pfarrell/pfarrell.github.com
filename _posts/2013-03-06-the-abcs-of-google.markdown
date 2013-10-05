@@ -5,6 +5,7 @@ tldr: "Google is _serious_ business"
 ---
 
 >  George: What is a barometer, exactly?
+>
 >  Kramer: It's pronounced _thermometer_
 >   - Seinfeld (from _The Millenium_)
 
