@@ -59,7 +59,6 @@ img {
 
 ul {
   margin-bottom:1em;
-  margin:left:1em;
 }
 
 p {
@@ -82,6 +81,10 @@ td img{
   border-radius:0em;
 }
 
+div {
+  margin-left:1em;
+}
+
 p.section {
   margin-left:15px;
   margin-bottom:.4em;
@@ -99,10 +102,6 @@ p.section {
 
 .content {
   margin-left:200px;
-}
-
-.project {
-  margin-left:15px;
 }
 
 .src {

@@ -2,48 +2,53 @@
 layout: layout
 title: pfarrell
 ---
-<div class='content row'>
-  <div class='col-md-1'></div>
-  <div class='col-md-5'>
-    <h3>Code</h3>
-    <div class='project'>
-      <a class='' href='https://gist.github.com/pfarrell'>Gists</a>
-    </div>
-    <div class='project'>
-        <a href='http://patf.net/pigeon'>Pigeon</a>
-        <a class='src' href='http://github.com/pfarrell/pigeon'>{src}</a>
-    </div>
-    <div class='project'>
-        <s><a href='http://wgetme.com'>wgetme</a></s> not live yet
-        <a class='src' href='http://github.com/pfarrell/wgetme'>{src}</a>
-    </div>
-    <div class='project'>
-      <a href='http://patf.net/ldd'>Long Distance Dedication</a>
-      <a class='src' href='http://github.com/pfarrell/Song-A-Day'>{src}</a>
-    </div>
-    <div class='project'>
-      <a class='' href='http://github.com/pfarrell/pshare3'>Pshare3</a>
-    </div>
-    <div class='project'>
-      <a class='' href='http://github.com/pfarrell/storyfork'>Storyfork</a>
-    </div>
-    <div class='project'>
-      <a class='' href='http://patf.net/oblique'>Oblique Stratagems</a>
-    </div>
-    <div class='project'>
-      <a class='' href='http://github.com/pfarrell/canvas'>HTML5 Canvas playground</a>
-    </div>
-    <div class='project'>
-      <a class='' href='https://rawgithub.com/pfarrell/canvas/master/gol.html'>Game of Life</a>
-      <a class='src' href='http://github.com/pfarrell/canvas'>{src}</a>
-    </div>
+<div class='content'>
+<div class='row'>
+  <h3>Code</h3>
+  <div class='project'>
+    <a class='' href='https://gist.github.com/pfarrell'>Gists</a>
+  </div>
+  <div class='project'>
+      <a href='http://patf.net/pigeon'>Pigeon</a>
+      <a class='src' href='http://github.com/pfarrell/pigeon'>{src}</a>
+  </div>
+  <div class='project'>
+      <s><a href='http://wgetme.com'>wgetme</a></s> not live yet
+      <a class='src' href='http://github.com/pfarrell/wgetme'>{src}</a>
+  </div>
+  <div class='project'>
+    <a href='http://patf.net/ldd'>Long Distance Dedication</a>
+    <a class='src' href='http://github.com/pfarrell/Song-A-Day'>{src}</a>
+  </div>
+  <div class='project'>
+    <a class='' href='http://github.com/pfarrell/pshare3'>Pshare3</a>
+  </div>
+  <div class='project'>
+    <a class='' href='http://github.com/pfarrell/storyfork'>Storyfork</a>
+  </div>
+  <div class='project'>
+    <a class='' href='http://patf.net/oblique'>Oblique Stratagems</a>
+  </div>
+  <div class='project'>
+    <a class='' href='http://github.com/pfarrell/canvas'>HTML5 Canvas playground</a>
+  </div>
+  <div class='project'>
+    <a class='' href='https://rawgithub.com/pfarrell/canvas/master/gol.html'>Game of Life</a>
+    <a class='src' href='http://github.com/pfarrell/canvas'>{src}</a>
+  </div>
+</div>
 
+<div class='row' >
+  <div class="content row">
+  <div class='col-md-4'>
     <h3>Essays</h3>
+
     {% for post in site.posts %} 
-    <div class='post'>
-      <a href='{{ post.url }}'>{{ post.title }}</a>
-    </div>
+      <div class='post'>
+        <a href='{{ post.url }}'>{{ post.title }}</a>
+      </div>
     {% endfor %}
+  </div>
   </div>
 </div>
 
