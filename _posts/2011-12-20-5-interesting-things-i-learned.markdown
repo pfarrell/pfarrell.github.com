@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 interesting things from The Night Before Christmas poem
-tldr: I like reading to my kids.
+tldr: I like to read.
 ---
 ####5. Santa smokes!
       The stump of a pipe he held tight in his teeth,  
