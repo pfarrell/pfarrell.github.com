@@ -1,5 +1,5 @@
 auto: true
 markdown: rdiscount
-pygments: true
+highlighter: pygments
 permalink: /blog/:title
 exclude: [vendor]
