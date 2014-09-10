@@ -116,3 +116,14 @@ p.section {
   padding: .5em;
   border-radius: .5em;
 }
+
+.item { 
+  width: 25%; 
+  padding: 1em;
+  margin: .2em;
+  border-radius:5px;
+}
+
+.item > img {
+  width: 200px;
+}
