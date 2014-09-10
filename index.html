@@ -142,10 +142,13 @@ title: pfarrell
     </div>
   {% endfor %}
   <script>
-    var container = document.querySelector('#projects');
-    var msnry = new Masonry( container, {
-        // options
-          columnWidth: 100,
-            itemSelector: '.item'
-    });
+    $(window).load(function()
+      {
+        var container = document.querySelector('#projects');
+        var msnry = new Masonry( container, {
+            // options
+              columnWidth: 100,
+                itemSelector: '.item'
+        });
+      });
   </script>
