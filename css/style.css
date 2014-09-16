@@ -19,6 +19,7 @@ body {
 a {
   font-color:blue;
   text-decoration:none;
+  font-size: 1.5em;
 }
 
 a:-webkit-any-link {
@@ -72,7 +73,6 @@ p.project {
 }
 
 div.post {
-  font-size: 1.5em;
   margin-bottom:10px;
 }
 
