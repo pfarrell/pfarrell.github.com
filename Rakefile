@@ -7,7 +7,7 @@ task :new do
   name = STDIN.gets.chomp
   FileUtils.touch("drafts/#{name}.md")
 
-  open("drafts/#{name}.md", 'a') do |f|
+  open("_drafts/#{name}.md", 'a') do |f|
     f.puts "---"
     f.puts "layout: post"
     f.puts "title: \"DRAFT: #{name}\""
