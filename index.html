@@ -76,20 +76,6 @@ title: pfarrell
       <h3>Strings</h3>
     </div>
   </div>
-  <div id="notes">
-  {% for post in site.posts %} 
-    <div class='project item'>
-      <a href='{{ post.url }}'>{{ post.title }}</a>
-    </div>
-  {% endfor %}
-  </div>
-  {% for image in site.images %} 
-    <div class="row">
-      <div class='post col-xs-4'>
-        <a href='{{ post.url }}'>{{ post.title }}</a>
-      </div>
-    </div>
-  {% endfor %}
   <script>
     $(window).load(function()
       {
