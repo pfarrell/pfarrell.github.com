@@ -5,4 +5,4 @@ vendor
 .bundle
 Gemfile.lock
 .jekyll-cache
-
+.jekyll-metadata
